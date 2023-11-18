@@ -1,0 +1,18 @@
+.react-multi-carousel-list {
+  margin-top: 35px;
+}
+
+#friendSlider .react-multi-carousel-item {
+  margin-right: 40px;
+  box-shadow: 1px 4px 8px -1px #aea9a9;
+  border-top-left-radius: 5%;
+  border-bottom-left-radius: 5%;
+}
+
+.carousel-item-padding-100 {
+  width: 436px !important;
+  margin-right: 60px;
+  box-shadow: 1px 4px 8px -1px #aea9a9;
+  border-top-left-radius: 5%;
+  border-bottom-left-radius: 5%;
+}

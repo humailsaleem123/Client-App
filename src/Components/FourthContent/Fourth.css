@@ -1,0 +1,24 @@
+.bg-graph {
+  aspect-ratio: 3/1.5;
+  position: relative;
+  /* height: 40rem; */
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.graph-content-bg {
+  background-image: url('../../Images/gradient-bg.png');
+  background-size: cover;
+  /* background-image: radial-gradient(farthest-corner at 40px -50px, #f35 0%, #091423 25%); */
+  padding: 70px;
+}
+
+.graph-content-bg2 {
+  background: #091423;
+  padding: 70px;
+}
+
+.bottom-btn2 {
+  position: absolute !important;
+  bottom: 0;
+}

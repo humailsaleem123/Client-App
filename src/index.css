@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.css-1ig5zc6-MuiButtonBase-root-MuiPickersDay-root {
+  width: 100px !important;
+}
+
+.css-twdrmm-MuiPickersDay-root {
+  width: 100px !important;
+}
+
+.css-rf7avy-MuiTypography-root-MuiDayCalendar-weekDayLabel {
+  width: 100px !important;
+}
+
+.css-ascpo7-MuiStepLabel-root {
+  flex-direction: column;
+}
+
+.css-ascpo7-MuiStepLabel-root {
+  flex-direction: column;
+}
+
+.css-j5w0w9-MuiStepConnector-root {
+  display: none;
+}
+
+.css-1mrb3d-MuiSvgIcon-root-MuiStepIcon-root.Mui-active {
+  color: #F3504E !important;
+  border-radius: 20px;
+  padding: 5px;
+}
+
+.css-14nkioo-MuiStepIcon-text {
+  fill: #FFF !important;
+}
